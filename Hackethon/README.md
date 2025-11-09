@@ -7,7 +7,7 @@ To reduce motion blur in captured images by dynamically adjusting camera paramet
 - **AI Camera**: Analyzes each frame using OpenCV and adjusts parameters automatically.
 - **Normal Camera**: Captures images using the default camera settings.
 
----[Uploading CaptureSmart.pdf…]()
+
 
 
 ## 🚀 Features
