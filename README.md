@@ -20,6 +20,7 @@ To reduce motion blur in captured images by dynamically adjusting camera paramet
 - 🧪 **Post-Capture Analysis (Python)**: Visualizes blur heatmaps using edge detection and heatmap overlay.
 
 ---
+📄 [View Project Report (PDF)](./CaptureSmart.pdf)
 
 ## 🧭 Navigation Flow
 
